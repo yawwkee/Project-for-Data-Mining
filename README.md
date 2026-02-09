@@ -5,15 +5,15 @@ Możesz stworzyć plik o nazwie `README.md` w swoim repozytorium i wkleić tam p
 
 ---
 
-# 💤 Sleep Health and Lifestyle Analysis
+#  Sleep Health and Lifestyle Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes the impact of lifestyle and physiological factors on sleep quality and duration. Using the **Sleep Health and Lifestyle Dataset**, I investigated how variables such as **stress levels, occupation, physical activity, and BMI** affect sleep patterns.
 
 The project covers the entire Data Science pipeline: data acquisition, preprocessing, Exploratory Data Analysis (EDA), and building a Machine Learning model to predict sleep disorders.
 
-## 📂 Dataset
+## Dataset
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).
 
@@ -51,7 +51,7 @@ I created several visualizations to understand the data relationships:
 * **Data Split:** 80% Training / 20% Testing.
 * **Result:** The model achieved an **Accuracy of 88%** on the test set.
 
-## 📊 Key Insights
+## Key Insights
 
 1. 
 **Stress is the biggest enemy of sleep:** High stress levels drastically reduce reported sleep quality.
@@ -66,7 +66,7 @@ I created several visualizations to understand the data relationships:
 
 
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
@@ -84,13 +84,13 @@ pip install pandas matplotlib seaborn scikit-learn
 
 3. Open the Jupyter Notebook:
 ```bash
-jupyter notebook Projekt_Kod.ipynb
+jupyter notebook project.ipynb
 
 ```
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Pavlo Mysiuk**
 
@@ -98,4 +98,3 @@ jupyter notebook Projekt_Kod.ipynb
 
 ---
 
-*This project was developed for the "Data Mining" (Eksploracja Danych) course.*

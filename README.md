@@ -1,10 +1,3 @@
-# Project-for-Data-Mining
-Oto profesjonalny opis do pliku `README.md` na GitHub, przetłumaczony na język angielski i sformatowany w Markdown. Jest gotowy do skopiowania.
-
-Możesz stworzyć plik o nazwie `README.md` w swoim repozytorium i wkleić tam poniższą treść.
-
----
-
 #  Sleep Health and Lifestyle Analysis
 
 ## Project Overview
